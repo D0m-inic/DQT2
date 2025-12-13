@@ -1,4 +1,4 @@
-# DqT2
+# DqT2 - A project in collaboration with the Institute of Cancer Research
 by Dominic Qu
 
 This package includes forward and jacobian operators for direct reconstruction of T2* in K-space, as well as an iterative algorithm utilising the operators.
